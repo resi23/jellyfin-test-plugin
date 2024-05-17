@@ -1,0 +1,21 @@
+﻿[
+    {
+        "guid": "4fabd0f7-1bc8-4983-bc8c-9f6cdd695ca4",
+        "name": "Deine Mudda",
+        "overview": "overviewDEV",
+        "description": "description DEV",
+        "owner": "ResistantX",
+        "category": "General",
+        "imageUrl": "https://raw.githubusercontent.com/resi23/jellyfin-test-plugin/master/images/logo.png",
+        "versions": [
+            {
+                "version": "0.0.0.1",
+                "changelog": "- Gibt keins\n",
+                "targetAbi": "10.8.4.0",
+                "sourceUrl": "https://raw.githubusercontent.com/resi23/jellyfin-test-plugin/master/releases/deine-mudda-v0.0.0.1.zip",
+                "checksum": "8989cbe9c438d5a14fab3002e21c26ba",
+                "timestamp": "2024-03-04T10:10:35Z"
+            }
+        ]
+    }
+]
