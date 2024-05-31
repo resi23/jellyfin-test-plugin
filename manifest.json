@@ -31,7 +31,6 @@
                 "version": "14.0.0.1",
                 "changelog": "### CSS Fixes ###",
                 "targetAbi": "10.9.1.0",
-                "sourceUrl": "https://repo.jellyfin.org/files/plugin/webhook/webhook_14.0.0.0.zip",
                 "sourceUrl": "https://github.com/resi23/releases/webhook/download/10.8/v0.1.18.0/intro-skipper-v0.1.18.0.zip",
                 "checksum": "0a9b5130a66875b4c88c6cbaa2a77355",
                 "timestamp": "2024-05-31T10:02:02Z"
