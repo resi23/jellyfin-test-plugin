@@ -31,7 +31,7 @@
                 "version": "14.0.0.1",
                 "changelog": "### CSS Fixes ###",
                 "targetAbi": "10.9.1.0",
-                "sourceUrl": "https://github.com/resi23/jellyfin-test-plugin/raw/master/releases/Jellyfin.Plugin.Webhook.14.0.0.1.zip",
+                "sourceUrl": "https://github.com/resi23/jellyfin-test-plugin/raw/master/releases/webhook/Jellyfin.Plugin.Webhook.14.0.0.1.zip",
                 "checksum": "01882013dec0e377f7c25de8fe8a72cc",
                 "timestamp": "2024-05-31T10:02:02Z"
             }
